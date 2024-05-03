@@ -1,3 +1,4 @@
+// Footer
 import React from "react";
 import footer from "../../../assets/images/footer.png";
 
