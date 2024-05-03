@@ -1,3 +1,4 @@
+// Testimonial
 import React from "react";
 import quote from "../../../assets/icons/quote.svg";
 import people1 from "../../../assets/images/people1.png";
