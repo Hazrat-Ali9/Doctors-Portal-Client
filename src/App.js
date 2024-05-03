@@ -1,3 +1,4 @@
+// App js
 import "./App.css";
 import Navbar from "./pages/Shared/Navbar/Navbar";
 import { Routes, Route, Link } from "react-router-dom";
