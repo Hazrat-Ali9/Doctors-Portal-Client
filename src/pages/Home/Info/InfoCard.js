@@ -1,3 +1,4 @@
+// Info Cards
 import React from "react";
 
 const InfoCard = ({img, cardTitle, bgClass}) => {
