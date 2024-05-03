@@ -1,3 +1,4 @@
+// Theme Context
 import React from 'react';
 
 const getInitialTheme = () => {
