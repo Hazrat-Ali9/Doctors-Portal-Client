@@ -32,7 +32,7 @@ const Login = () => {
     formState: { errors },
     handleSubmit,
   } = useForm();
-
+// on submit
   const onSubmit = (data) => {
     console.log(data);
     signInWithEmailAndPassword(data.email, data.password);
