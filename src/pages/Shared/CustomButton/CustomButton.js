@@ -1,4 +1,4 @@
-// Custom Btn
+// Custom Button
 import React from "react";
 
 const CustomButton = ({children}) => {
