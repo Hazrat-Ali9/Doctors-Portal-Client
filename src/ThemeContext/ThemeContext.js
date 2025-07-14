@@ -1,6 +1,5 @@
-// Theme Context
 import React from 'react';
-
+// Theme Context
 const getInitialTheme = () => {
     if (typeof window !== 'undefined' && window.localStorage) {
         const storedPrefs = window.localStorage.getItem('color-theme');
